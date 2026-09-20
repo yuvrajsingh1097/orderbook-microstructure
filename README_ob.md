@@ -8,7 +8,7 @@ Real-time L2 orderbook analysis pipeline with VPIN (Volume-synchronized Probabil
 
 ---
 
-## What this does
+## What this does,
 
 | Module | Description |
 |--------|-------------|
