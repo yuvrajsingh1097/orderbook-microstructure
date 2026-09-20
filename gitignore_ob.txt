@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+data/*.csv
+data/*.pkl
+!data/.gitkeep
+models/*.pkl
+!models/.gitkeep
+.env
+.DS_Store
+.vscode/
+.pytest_cache/
